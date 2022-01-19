@@ -1,2 +1,2 @@
 # Machine-Learning
- Python programs used in my college machine learning class
+ Homeworks done for college machine learning class
